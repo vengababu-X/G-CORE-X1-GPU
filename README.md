@@ -398,6 +398,17 @@ Graphics pipelines are separate subsystems.
 
 
 ---
+👤 Author & Credits
+
+Designed & implemented by:XKING
+
+○This project was built as:
+○A learning exercise
+○An academic hardware architecture project
+○A foundation for future GPU research
+
+
+---
 
 🏁 Final Statement
 
@@ -408,4 +419,6 @@ No copied content.
 No fake claims.
 
 Just engineering.
+
+
 
